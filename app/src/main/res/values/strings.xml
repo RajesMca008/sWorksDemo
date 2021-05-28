@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sWorks</string>
+    <string name="title_activity_maps">sWorks</string>
+    <string name="phone_permission">Phone permission denied!</string>
+    <string name="delivery_return">Delivery/Return</string>
+</resources>
