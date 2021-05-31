@@ -61,7 +61,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
                 PHONE_REMISSION_REQ_CODE
             )
         } else {
-            startActivity(Intent(Intent.ACTION_CALL).setData(Uri.parse("tel:12345678901")))
+            isPhonePermissionGranted= true
         }
     }
 
